@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Machine learning ,Big Data and Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sprinkleai/Portfolio](https://sites.google.com/view/trumpcard77/Portfolio)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sprinklesai/Portfolio](https://sites.google.com/view/sprinklesai/Portfolio)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/sprinkleai/nowadays/my-utd-diary/tech-blogs](https://sites.google.com/view/trumpcard77/nowadays/my-utd-diary/tech-blogs)
+- 📝 I regularly write articles on [https://sites.google.com/view/sprinklesai/nowadays/my-utd-diary/tech-blogs](https://sites.google.com/view/sprinklesai/nowadays/my-utd-diary/tech-blogs)
 
 - 💬 Ask me about **Data**
 
