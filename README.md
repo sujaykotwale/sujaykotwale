@@ -24,12 +24,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/sujaykotwale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujay kotwale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sujay kotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujay kotwale" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sujaykotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujaykotwale" height="30" width="40" /></a>
 <a href="https://kaggle.com/kotwale16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kotwale16" height="30" width="40" /></a>
 <a href="https://medium.com/@sujaykotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sujaykotwale" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/liferacer161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="liferacer161" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sujaykotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sujaykotwale" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sujaykotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujaykotwale" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20568053/sujay-kotwale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sujay kotwale" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/liferacer161" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="liferacer161" height="30" width="40" /></a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
